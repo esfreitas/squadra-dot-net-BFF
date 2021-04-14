@@ -1,0 +1,7 @@
+C:\Users\hm007543\source\repos\Ativo.BFF\Ativo.BFF\obj\Debug\net5.0\Ativo.BFF.csprojAssemblyReference.cache
+C:\Users\hm007543\source\repos\Ativo.BFF\Ativo.BFF\obj\Debug\net5.0\Ativo.BFF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hm007543\source\repos\Ativo.BFF\Ativo.BFF\obj\Debug\net5.0\Ativo.BFF.AssemblyInfoInputs.cache
+C:\Users\hm007543\source\repos\Ativo.BFF\Ativo.BFF\obj\Debug\net5.0\Ativo.BFF.AssemblyInfo.cs
+C:\Users\hm007543\source\repos\Ativo.BFF\Ativo.BFF\obj\Debug\net5.0\Ativo.BFF.csproj.CoreCompileInputs.cache
+C:\Users\hm007543\source\repos\Ativo.BFF\Ativo.BFF\obj\Debug\net5.0\Ativo.BFF.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hm007543\source\repos\Ativo.BFF\Ativo.BFF\obj\Debug\net5.0\Ativo.BFF.MvcApplicationPartsAssemblyInfo.cache
